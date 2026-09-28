@@ -1,0 +1,8 @@
+{
+  "name": "Remix Auto Escola Maranhão do Sul",
+  "description": "Website oficial da Auto Escola 4X4 em Maceió. Formação de condutores, aulas teóricas e práticas e categorias A, B, C e D. Solicite seu orçamento pelo WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
